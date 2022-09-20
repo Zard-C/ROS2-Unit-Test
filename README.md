@@ -1,5 +1,7 @@
 # README
 
+This repo is a demo `ROS2 package`  to demonstrate how to do unit test using `gtest` and run memory leak check with `valgrind` in a `ROS2 package`.
+
 ## Dependencies
 
 1. ROS2
